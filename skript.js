@@ -35,14 +35,14 @@ const TOY_MALUMOTLARI = {
   // Faylni "toy_taklifnoma" papkasiga qo'ying va nomini yozing
   // Misol: "mening_kuyim.mp3"  yoki  "wedding_song.mp3"
   // ================================================================
-  MUSIQA_FAYL: "musiqa.mp3",
+  MUSIQA_FAYL: "5464725924.mp3",
 
   // ================================================================
   // 🎬 VIDEO FAYLI — shu qatorni o'zgartiring
   // Faylni "toy_taklifnoma" papkasiga qo'ying va nomini yozing
   // Misol: "fon_video.mp4"  yoki  "background.mp4"
   // ================================================================
-  VIDEO_FAYL: "video.mp4",
+  VIDEO_FAYL: "toy.mp4",
 
   // ── MATNLAR ────────────────────────────────────────────────────
   TABRIQ: "Hayotimizning eng baxtli kunini siz azizlar bilan birga nishonlashni istardik. Sizni to'yimizga taklif etishdan cheksiz xursandmiz!",
