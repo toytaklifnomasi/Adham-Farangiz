@@ -6,21 +6,21 @@
 const TOY_MALUMOTLARI = {
 
   // ── ISMLAR ─────────────────────────────────────────────────────
-  KUYOV_ISM:  "Jasurbek",
-  KELIN_ISM:  "Malika",
-  KUYOV_BOSH: "J",          // Muqovada chiqadigan bosh harf
-  KELIN_BOSH: "M",          // Muqovada chiqadigan bosh harf
+  KUYOV_ISM:  "Adham",
+  KELIN_ISM:  "Farangiz",
+  KUYOV_BOSH: "A",          // Muqovada chiqadigan bosh harf
+  KELIN_BOSH: "F",          // Muqovada chiqadigan bosh harf
 
   // ── TO'Y SANASI ────────────────────────────────────────────────
   // new Date( YIL, OY-1, KUN, SOAT, DAQIQA )
   // Oy: 0=Yanvar 1=Fevral 2=Mart 3=Aprel 4=May 5=Iyun
   //     6=Iyul  7=Avgust 8=Sentabr 9=Oktabr 10=Noyabr 11=Dekabr
-  TOY_SANASI:      new Date(2025, 5, 15, 14, 0, 0),
-  TOY_VAQTI:       "14:00",
-  TOY_SANASI_MATN: "15 Iyun, 2025",
+  TOY_SANASI:      new Date(2026, 6, 25, 19, 0, 0),
+  TOY_VAQTI:       "19:00",
+  TOY_SANASI_MATN: "25 Iyun, 2026",
 
   // ── JOY ────────────────────────────────────────────────────────
-  TOY_JOYI:    '"Sharq Saroyi" to\'yxonasi',
+  TOY_JOYI:    '"Mo\'jizai" to\'yxonasi',
   TOY_MANZILI: "Guzar, Qashqadaryo viloyati",
 
   // ================================================================
@@ -28,7 +28,7 @@ const TOY_MALUMOTLARI = {
   // Misol: "https://maps.app.goo.gl/BmuNHZypNFXay5Sr7"
   // yoki:  "https://www.google.com/maps?q=J7F2+WJJ"
   // ================================================================
-  XARITA_LINK: "https://maps.app.goo.gl/BmuNHZypNFXay5Sr7",
+  XARITA_LINK: "https://maps.app.goo.gl/NrJXEhRv46wFpzXc6",
 
   // ================================================================
   // 🎵 MUSIQA FAYLI — shu qatorni o'zgartiring
@@ -47,14 +47,14 @@ const TOY_MALUMOTLARI = {
   // ── MATNLAR ────────────────────────────────────────────────────
   TABRIQ: "Hayotimizning eng baxtli kunini siz azizlar bilan birga nishonlashni istardik. Sizni to'yimizga taklif etishdan cheksiz xursandmiz!",
 
-  KIMDAN: "Oilalar nomidan",
+  KIMDAN: "Ruziyevlar va Erqulovlar oilalari nomidan",
 
   // ================================================================
   // 📞 TAYYORLOVCHI HAQIDA — sahifa eng pastida kichik shrift bilan
   // chiqadi. Bo'sh qoldirsangiz ("") umuman ko'rinmaydi.
-  // Misol: "Sayt tayyorlandi: Akrom | +998 90 123 45 67"
+  // Misol: "Sayt tayyorlandi: Akrom | +998 90 722 71 00"
   // ================================================================
-  MUALLIF_MATNI: "Sayt tayyorlandi: Akrom | +998 90 123 45 67"
+  MUALLIF_MATNI: "Sayt tayyorlandi: Akrom | +998 90 722 71 00"
 };
 
 /* ================================================================
