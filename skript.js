@@ -15,7 +15,7 @@ const TOY_MALUMOTLARI = {
   // new Date( YIL, OY-1, KUN, SOAT, DAQIQA )
   // Oy: 0=Yanvar 1=Fevral 2=Mart 3=Aprel 4=May 5=Iyun
   //     6=Iyul  7=Avgust 8=Sentabr 9=Oktabr 10=Noyabr 11=Dekabr
-  TOY_SANASI:      new Date(2026, 6, 25, 19, 0, 0),
+  TOY_SANASI:      new Date(2026, 5, 25, 19, 0, 0),
   TOY_VAQTI:       "19:00",
   TOY_SANASI_MATN: "25 Iyun, 2026",
 
